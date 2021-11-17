@@ -31,8 +31,8 @@ body::before{
 }
 
 body {
-    display: flex;
     color: white;
+    display: flex;
     flex-direction: column;
     align-items: center;
     font-family: 'Poppins', sans-serif;
